@@ -1,5 +1,6 @@
 spring:
   security:
     user:
-      name: configuser
-      password: 'Thespoon82'
+      name: config-user
+      #password: config-password
+      password: '{cipher}9e4d635dd51ba2449fdc8ef99e254717353f50e8fd869b98f6ab7f7a5c74f3dc'
