@@ -1,4 +1,5 @@
 spring:
-  datasource:
-    username: configuser
-    password: 'Thespoon82'
+  security:
+    user:
+      name: configuser
+      password: 'Thespoon82'
